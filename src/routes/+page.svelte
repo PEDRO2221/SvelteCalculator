@@ -18,6 +18,6 @@
         height: 100vh;
     }
     :root{
-        --bg-fundo: #555;
+        --bg-fundo: #555
     }
 </style>
